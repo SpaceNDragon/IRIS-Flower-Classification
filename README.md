@@ -1,4 +1,4 @@
-# IRIS-Flower-Classification
+# IRIS Flower Classification
 
 Hi there 👋
 
